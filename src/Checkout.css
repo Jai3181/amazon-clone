@@ -1,0 +1,10 @@
+.abc{
+    display: flex;
+
+}
+
+.checkout__image{
+    height: 100px;
+    min-width: 50px;
+    margin: 10px;
+}
